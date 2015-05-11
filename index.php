@@ -3,4 +3,6 @@
 	
 	
 	echo 'alt echo';
+	
+	echo 'echo 2';
 ?>
